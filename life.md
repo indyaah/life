@@ -17,6 +17,6 @@
 - 18/12/2006 First tweet
 - 11/2010-04/2011 Technical Associate - TechMahindra (Pune/Chandigarh, India)
 - 07/2011-08/2013 System Engineer - Ecolibrium Energy
-- 09/2011-~ Growing as a Software Engineer (Joined GitHub & SO Community.)
+- 09/2011-~ Growing as a Software Engineer and Human. (Joined GitHub, SO & Twitter Community.)
 - 02/2012 - Second Laptop (HP)
 - 10/2013-~ Software Engineer - Hexagon Global
